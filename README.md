@@ -1,4 +1,5 @@
-# lazygit [![CircleCI](https://circleci.com/gh/jesseduffield/lazygit.svg?style=svg)](https://circleci.com/gh/jesseduffield/lazygit) [![codecov](https://codecov.io/gh/jesseduffield/lazygit/branch/master/graph/badge.svg)](https://codecov.io/gh/jesseduffield/lazygit) [![Go Report Card](https://goreportcard.com/badge/github.com/jesseduffield/lazygit)](https://goreportcard.com/report/github.com/jesseduffield/lazygit) [![GolangCI](https://golangci.com/badges/github.com/jesseduffield/lazygit.svg)](https://golangci.com) [![GoDoc](https://godoc.org/github.com/jesseduffield/lazygit?status.svg)](http://godoc.org/github.com/jesseduffield/lazygit) [![GitHub tag](https://img.shields.io/github/tag/jesseduffield/lazygit.svg)]()
+# lazygit [![CircleCI](https://circleci.com/gh/jesseduffield/lazygit.svg?style=svg)](https://circleci.com/gh/jesseduffield/lazygit) [![codecov](https://codecov.io/gh/jesseduffield/lazygit/branch/master/graph/badge.svg)](https://codecov.io/gh/jesseduffield/lazygit) [![Go Report Card](https://goreportcard.com/badge/github.com/jesseduffield/lazygit)](https://goreportcard.com/report/github.com/jesseduffield/lazygit) [![GolangCI](https://golangci.com/badges/github.com/jesseduffield/lazygit.svg)](https://golangci.com) [![GoDoc](https://godoc.org/github.com/jesseduffield/lazygit?status.svg)](http://godoc.org/github.com/jesseduffield/lazygit) [![GitHub tag](https://img.shields.io/github/tag/jesseduffield/lazygit.svg)][![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fglvr182%2Flazygit.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fglvr182%2Flazygit?ref=badge_shield)
+()
 
 A simple terminal UI for git commands, written in Go with the [gocui](https://github.com/jroimartin/gocui "gocui") library.
 
@@ -146,3 +147,7 @@ If you want to see what I (Jesse) am up to in terms of development, follow me on
 ## Alternatives
 If you find that lazygit doesn't quite satisfy your requirements, these may be a better fit:
 - [tig](https://github.com/jonas/tig)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fglvr182%2Flazygit.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fglvr182%2Flazygit?ref=badge_large)
